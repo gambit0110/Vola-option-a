@@ -1,22 +1,22 @@
-# Automated Weekly Ecommerce Reporting Pipeline (Groq)
+# Automated Weekly Ecommerce Reporting Pipeline
 
-This project is a take-home submission for an AI Automation Developer role.
+This project is a take-home submission.
 It automates a weekly ecommerce performance report by pulling data from two sources, cleaning messy inputs, calculating KPIs and anomalies, generating an executive summary with Groq, and writing shareable report files on a schedule.
 
-## What This Project Does (Plain English)
+## What This Project Does
 
 Every week, the pipeline:
 
 1. Reads order data and ad performance data
 2. Cleans messy dates, channel names, and currency formats
 3. Calculates weekly business and marketing metrics
-4. Flags unusual changes (anomalies) with clear rules
+4. Flags unusual changes with clear rules
 5. Uses a Groq-hosted LLM to write a human-readable executive summary
 6. Saves the results as Markdown, CSV, and JSON files
 
 This is built to demonstrate automation and reporting workflow quality, not to rely on perfect real-world data.
 
-## Example Outputs (What You Get)
+## Example Outputs 
 
 Each run writes files into `reports/`:
 
@@ -37,15 +37,13 @@ The CSV output (`latest.csv` / dated CSV) contains one row per week and includes
 - Anomaly columns: `anomaly_count`, `anomaly_rules`
 - Channel breakdown columns for revenue/spend/ROAS (e.g. `revenue_paid_social`, `spend_search`, `roas_email`)
 
-### CSV Output Overview (Weekly Rows)
+### CSV Output Overview 
 
-Add your screenshot here after you upload it:
 
 ![CSV weekly report overview](docs/images/csv-output-overview.png)
 
-Caption suggestion: Weekly rows with sales, marketing, efficiency, and anomaly summary columns.
 
-## How It Works (High-Level Architecture)
+## How It Works 
 
 ```text
 Orders CSV (local, messy) -----> extract.py -----> transform.py -----> metrics.py -----> llm_summary.py -----> deliver.py
@@ -63,14 +61,14 @@ Module responsibilities:
 - `src/deliver.py`: writes Markdown, CSV, and JSON outputs to `reports/`
 - `src/run.py`: orchestrates the full pipeline end-to-end
 
-## Data Sources and Cleanup (Interview-Relevant)
+## Data Sources and Cleanup
 
 This implementation uses 2 sources:
 
 1. `data/orders_messy.csv` (required messy source)
 2. Ads CSV from `ADS_CSV_URL` (HTTP) with fallback to `data/ads_spend_messy.csv`
 
-### Orders Cleanup (Main Transformation Requirement)
+### Orders Cleanup
 
 The orders source is intentionally messy and requires cleanup before it is usable:
 
@@ -95,7 +93,7 @@ Before/after examples:
   - `1.500,00` -> `1500.00`
   - blank / `null` -> `0.0`
 
-### Ads Cleanup (Light Cleanup)
+### Ads Cleanup
 
 Ads data also gets light cleanup:
 
@@ -105,7 +103,7 @@ Ads data also gets light cleanup:
 - Missing numeric values default to `0`
 - If `ADS_CSV_URL` is missing/fails, the pipeline falls back to local sample ads data
 
-## Metrics and Anomalies (What the Pipeline Flags Automatically)
+## Metrics and Anomalies
 
 Weekly buckets are Monday-start.
 
@@ -187,7 +185,7 @@ GitHub Actions secrets:
 - Required: `GROQ_API_KEY`
 - Optional: `ADS_CSV_URL`
 
-## Requirement Checklist (Take-Home Prompt Mapping)
+## Requirement Checklist
 
 | Requirement | How this project meets it |
 |---|---|
@@ -204,9 +202,9 @@ GitHub Actions secrets:
 - CSV output is an analyst-friendly tabular artifact; Markdown is the executive summary
 - Groq prompt payload is compacted to avoid token-limit errors while preserving key metrics/anomalies
 
-## Technical Notes (Short)
+## Technical Notes
 
-### Groq Integration (OpenAI-Compatible SDK)
+### Groq Integration
 
 ```python
 from openai import OpenAI
