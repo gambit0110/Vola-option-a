@@ -40,6 +40,8 @@ def main() -> None:
     print(f"Saved weekly report: {saved['weekly_report']}")
     print(f"Saved latest report: {saved['latest_report']}")
     print(f"Saved metrics JSON: {saved['metrics_json']}")
+    print(f"Saved weekly CSV: {saved['weekly_csv']}")
+    print(f"Saved latest CSV: {saved['latest_csv']}")
     logger.info("Pipeline run complete")
 
 
