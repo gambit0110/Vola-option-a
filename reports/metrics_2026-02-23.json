@@ -1,0 +1,1146 @@
+{
+  "meta": {
+    "run_date": "2026-02-23",
+    "orders_rows_clean": 56,
+    "ads_rows_clean": 40,
+    "week_range": {
+      "start": "2025-12-29",
+      "end": "2026-02-16",
+      "weeks": 8
+    },
+    "week_starts": [
+      "2025-12-29",
+      "2026-01-05",
+      "2026-01-12",
+      "2026-01-19",
+      "2026-01-26",
+      "2026-02-02",
+      "2026-02-09",
+      "2026-02-16"
+    ]
+  },
+  "sales_weekly": [
+    {
+      "week_start": "2025-12-29",
+      "revenue": 2171.14,
+      "orders": 7,
+      "aov": 310.16,
+      "revenue_split_by_customer_type": {
+        "new": 460.75,
+        "returning": 1634.99,
+        "unknown": 75.4
+      },
+      "returning_revenue_share": 0.7531,
+      "revenue_by_channel": {
+        "paid_social": 285.89,
+        "search": 210.0,
+        "email": 45.0,
+        "organic": 130.25,
+        "direct": 1500.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": null,
+        "orders": null,
+        "aov": null,
+        "returning_revenue_share": null,
+        "returning_revenue_share_pp": null,
+        "previous_revenue": null,
+        "previous_returning_revenue_share": null,
+        "revenue_by_channel": {
+          "paid_social": null,
+          "search": null,
+          "email": null,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": null,
+          "search": null,
+          "email": null,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-05",
+      "revenue": 1728.05,
+      "orders": 7,
+      "aov": 246.86,
+      "revenue_split_by_customer_type": {
+        "new": 1320.2,
+        "returning": 407.85,
+        "unknown": 0.0
+      },
+      "returning_revenue_share": 0.236,
+      "revenue_by_channel": {
+        "paid_social": 352.0,
+        "search": 240.0,
+        "email": 0.0,
+        "organic": 155.75,
+        "direct": 980.3,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": -0.2041,
+        "orders": 0.0,
+        "aov": -0.2041,
+        "returning_revenue_share": -0.6866,
+        "returning_revenue_share_pp": -0.5171,
+        "previous_revenue": 2171.14,
+        "previous_returning_revenue_share": 0.7531,
+        "revenue_by_channel": {
+          "paid_social": 0.2312,
+          "search": 0.1429,
+          "email": -1.0,
+          "organic": 0.1958,
+          "direct": -0.3465,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 285.89,
+          "search": 210.0,
+          "email": 45.0,
+          "organic": 130.25,
+          "direct": 1500.0,
+          "unknown": 0.0
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-12",
+      "revenue": 1339.2,
+      "orders": 7,
+      "aov": 191.31,
+      "revenue_split_by_customer_type": {
+        "new": 558.25,
+        "returning": 610.5,
+        "unknown": 170.45
+      },
+      "returning_revenue_share": 0.4559,
+      "revenue_by_channel": {
+        "paid_social": 413.75,
+        "search": 280.0,
+        "email": 65.0,
+        "organic": 170.45,
+        "direct": 410.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": -0.225,
+        "orders": 0.0,
+        "aov": -0.225,
+        "returning_revenue_share": 0.9318,
+        "returning_revenue_share_pp": 0.2199,
+        "previous_revenue": 1728.05,
+        "previous_returning_revenue_share": 0.236,
+        "revenue_by_channel": {
+          "paid_social": 0.1754,
+          "search": 0.1667,
+          "email": null,
+          "organic": 0.0944,
+          "direct": -0.5818,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 352.0,
+          "search": 240.0,
+          "email": 0.0,
+          "organic": 155.75,
+          "direct": 980.3,
+          "unknown": 0.0
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-19",
+      "revenue": 1444.89,
+      "orders": 7,
+      "aov": 206.41,
+      "revenue_split_by_customer_type": {
+        "new": 342.69,
+        "returning": 1102.2,
+        "unknown": 0.0
+      },
+      "returning_revenue_share": 0.7628,
+      "revenue_by_channel": {
+        "paid_social": 457.7,
+        "search": 310.0,
+        "email": 59.99,
+        "organic": 162.2,
+        "direct": 455.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": 0.0789,
+        "orders": 0.0,
+        "aov": 0.0789,
+        "returning_revenue_share": 0.6732,
+        "returning_revenue_share_pp": 0.3069,
+        "previous_revenue": 1339.2,
+        "previous_returning_revenue_share": 0.4559,
+        "revenue_by_channel": {
+          "paid_social": 0.1062,
+          "search": 0.1071,
+          "email": -0.0771,
+          "organic": -0.0484,
+          "direct": 0.1098,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 413.75,
+          "search": 280.0,
+          "email": 65.0,
+          "organic": 170.45,
+          "direct": 410.0,
+          "unknown": 0.0
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-26",
+      "revenue": 1587.05,
+      "orders": 7,
+      "aov": 226.72,
+      "revenue_split_by_customer_type": {
+        "new": 695.35,
+        "returning": 746.7,
+        "unknown": 145.0
+      },
+      "returning_revenue_share": 0.4705,
+      "revenue_by_channel": {
+        "paid_social": 501.7,
+        "search": 330.0,
+        "email": 70.0,
+        "organic": 175.35,
+        "direct": 510.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": 0.0984,
+        "orders": 0.0,
+        "aov": 0.0984,
+        "returning_revenue_share": -0.3832,
+        "returning_revenue_share_pp": -0.2923,
+        "previous_revenue": 1444.89,
+        "previous_returning_revenue_share": 0.7628,
+        "revenue_by_channel": {
+          "paid_social": 0.0961,
+          "search": 0.0645,
+          "email": 0.1669,
+          "organic": 0.0811,
+          "direct": 0.1209,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 457.7,
+          "search": 310.0,
+          "email": 59.99,
+          "organic": 162.2,
+          "direct": 455.0,
+          "unknown": 0.0
+        }
+      }
+    },
+    {
+      "week_start": "2026-02-02",
+      "revenue": 1698.0,
+      "orders": 7,
+      "aov": 242.57,
+      "revenue_split_by_customer_type": {
+        "new": 410.9,
+        "returning": 1287.1,
+        "unknown": 0.0
+      },
+      "returning_revenue_share": 0.758,
+      "revenue_by_channel": {
+        "paid_social": 533.4,
+        "search": 360.0,
+        "email": 82.5,
+        "organic": 182.1,
+        "direct": 540.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": 0.0699,
+        "orders": 0.0,
+        "aov": 0.0699,
+        "returning_revenue_share": 0.6111,
+        "returning_revenue_share_pp": 0.2875,
+        "previous_revenue": 1587.05,
+        "previous_returning_revenue_share": 0.4705,
+        "revenue_by_channel": {
+          "paid_social": 0.0632,
+          "search": 0.0909,
+          "email": 0.1786,
+          "organic": 0.0385,
+          "direct": 0.0588,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 501.7,
+          "search": 330.0,
+          "email": 70.0,
+          "organic": 175.35,
+          "direct": 510.0,
+          "unknown": 0.0
+        }
+      }
+    },
+    {
+      "week_start": "2026-02-09",
+      "revenue": 1813.5,
+      "orders": 7,
+      "aov": 259.07,
+      "revenue_split_by_customer_type": {
+        "new": 953.3,
+        "returning": 860.2,
+        "unknown": 0.0
+      },
+      "returning_revenue_share": 0.4743,
+      "revenue_by_channel": {
+        "paid_social": 570.2,
+        "search": 385.0,
+        "email": 95.0,
+        "organic": 188.3,
+        "direct": 575.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": 0.068,
+        "orders": 0.0,
+        "aov": 0.068,
+        "returning_revenue_share": -0.3743,
+        "returning_revenue_share_pp": -0.2837,
+        "previous_revenue": 1698.0,
+        "previous_returning_revenue_share": 0.758,
+        "revenue_by_channel": {
+          "paid_social": 0.069,
+          "search": 0.0694,
+          "email": 0.1515,
+          "organic": 0.034,
+          "direct": 0.0648,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 533.4,
+          "search": 360.0,
+          "email": 82.5,
+          "organic": 182.1,
+          "direct": 540.0,
+          "unknown": 0.0
+        }
+      }
+    },
+    {
+      "week_start": "2026-02-16",
+      "revenue": 1299.0,
+      "orders": 7,
+      "aov": 185.57,
+      "revenue_split_by_customer_type": {
+        "new": 525.0,
+        "returning": 698.0,
+        "unknown": 76.0
+      },
+      "returning_revenue_share": 0.5373,
+      "revenue_by_channel": {
+        "paid_social": 333.0,
+        "search": 290.0,
+        "email": 76.0,
+        "organic": 140.0,
+        "direct": 460.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "revenue": -0.2837,
+        "orders": 0.0,
+        "aov": -0.2837,
+        "returning_revenue_share": 0.1328,
+        "returning_revenue_share_pp": 0.063,
+        "previous_revenue": 1813.5,
+        "previous_returning_revenue_share": 0.4743,
+        "revenue_by_channel": {
+          "paid_social": -0.416,
+          "search": -0.2468,
+          "email": -0.2,
+          "organic": -0.2565,
+          "direct": -0.2,
+          "unknown": null
+        },
+        "previous_revenue_by_channel": {
+          "paid_social": 570.2,
+          "search": 385.0,
+          "email": 95.0,
+          "organic": 188.3,
+          "direct": 575.0,
+          "unknown": 0.0
+        }
+      }
+    }
+  ],
+  "marketing_weekly": [
+    {
+      "week_start": "2025-12-29",
+      "spend": 1155.0,
+      "impressions": 134000,
+      "clicks": 4580,
+      "conversions": 279,
+      "ctr": 0.0342,
+      "cvr": 0.0609,
+      "cpc": 0.2522,
+      "cac_proxy": 4.1398,
+      "spend_by_channel": {
+        "paid_social": 810.0,
+        "search": 300.0,
+        "email": 45.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": null,
+        "ctr": null,
+        "cvr": null,
+        "cac_proxy": null,
+        "previous_spend": null
+      }
+    },
+    {
+      "week_start": "2026-01-05",
+      "spend": 1280.0,
+      "impressions": 145700,
+      "clicks": 4830,
+      "conversions": 283,
+      "ctr": 0.0332,
+      "cvr": 0.0586,
+      "cpc": 0.265,
+      "cac_proxy": 4.523,
+      "spend_by_channel": {
+        "paid_social": 910.0,
+        "search": 320.0,
+        "email": 50.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": 0.1082,
+        "ctr": -0.0292,
+        "cvr": -0.0378,
+        "cac_proxy": 0.0926,
+        "previous_spend": 1155.0
+      }
+    },
+    {
+      "week_start": "2026-01-12",
+      "spend": 1410.0,
+      "impressions": 156000,
+      "clicks": 5070,
+      "conversions": 280,
+      "ctr": 0.0325,
+      "cvr": 0.0552,
+      "cpc": 0.2781,
+      "cac_proxy": 5.0357,
+      "spend_by_channel": {
+        "paid_social": 1005.0,
+        "search": 350.0,
+        "email": 55.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": 0.1016,
+        "ctr": -0.0211,
+        "cvr": -0.058,
+        "cac_proxy": 0.1134,
+        "previous_spend": 1280.0
+      }
+    },
+    {
+      "week_start": "2026-01-19",
+      "spend": 1600.0,
+      "impressions": 167700,
+      "clicks": 5360,
+      "conversions": 262,
+      "ctr": 0.032,
+      "cvr": 0.0489,
+      "cpc": 0.2985,
+      "cac_proxy": 6.1069,
+      "spend_by_channel": {
+        "paid_social": 1150.0,
+        "search": 390.0,
+        "email": 60.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": 0.1348,
+        "ctr": -0.0154,
+        "cvr": -0.1141,
+        "cac_proxy": 0.2127,
+        "previous_spend": 1410.0
+      }
+    },
+    {
+      "week_start": "2026-01-26",
+      "spend": 1763.0,
+      "impressions": 176800,
+      "clicks": 5560,
+      "conversions": 251,
+      "ctr": 0.0314,
+      "cvr": 0.0451,
+      "cpc": 0.3171,
+      "cac_proxy": 7.0239,
+      "spend_by_channel": {
+        "paid_social": 1275.0,
+        "search": 420.0,
+        "email": 68.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": 0.1019,
+        "ctr": -0.0188,
+        "cvr": -0.0777,
+        "cac_proxy": 0.1502,
+        "previous_spend": 1600.0
+      }
+    },
+    {
+      "week_start": "2026-02-02",
+      "spend": 1962.5,
+      "impressions": 186000,
+      "clicks": 5740,
+      "conversions": 237,
+      "ctr": 0.0309,
+      "cvr": 0.0413,
+      "cpc": 0.3419,
+      "cac_proxy": 8.2806,
+      "spend_by_channel": {
+        "paid_social": 1420.0,
+        "search": 470.0,
+        "email": 72.5,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": 0.1132,
+        "ctr": -0.0159,
+        "cvr": -0.0843,
+        "cac_proxy": 0.1789,
+        "previous_spend": 1763.0
+      }
+    },
+    {
+      "week_start": "2026-02-09",
+      "spend": 2110.0,
+      "impressions": 193000,
+      "clicks": 5910,
+      "conversions": 216,
+      "ctr": 0.0306,
+      "cvr": 0.0365,
+      "cpc": 0.357,
+      "cac_proxy": 9.7685,
+      "spend_by_channel": {
+        "paid_social": 1520.0,
+        "search": 510.0,
+        "email": 80.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": 0.0752,
+        "ctr": -0.0097,
+        "cvr": -0.1162,
+        "cac_proxy": 0.1797,
+        "previous_spend": 1962.5
+      }
+    },
+    {
+      "week_start": "2026-02-16",
+      "spend": 1605.0,
+      "impressions": 170800,
+      "clicks": 5290,
+      "conversions": 248,
+      "ctr": 0.031,
+      "cvr": 0.0469,
+      "cpc": 0.3034,
+      "cac_proxy": 6.4718,
+      "spend_by_channel": {
+        "paid_social": 1130.0,
+        "search": 410.0,
+        "email": 65.0,
+        "organic": 0.0,
+        "direct": 0.0,
+        "unknown": 0.0
+      },
+      "wow": {
+        "spend": -0.2393,
+        "ctr": 0.0131,
+        "cvr": 0.2849,
+        "cac_proxy": -0.3375,
+        "previous_spend": 2110.0
+      }
+    }
+  ],
+  "efficiency_weekly": [
+    {
+      "week_start": "2025-12-29",
+      "mer": 1.8798,
+      "roas_by_channel": {
+        "paid_social": 0.353,
+        "search": 0.7,
+        "email": 1.0,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": null,
+        "roas_by_channel": {
+          "paid_social": null,
+          "search": null,
+          "email": null,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": null,
+          "search": null,
+          "email": null,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-05",
+      "mer": 1.35,
+      "roas_by_channel": {
+        "paid_social": 0.3868,
+        "search": 0.75,
+        "email": 0.0,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.2818,
+        "roas_by_channel": {
+          "paid_social": 0.0958,
+          "search": 0.0714,
+          "email": -1.0,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.353,
+          "search": 0.7,
+          "email": 1.0,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-12",
+      "mer": 0.9498,
+      "roas_by_channel": {
+        "paid_social": 0.4117,
+        "search": 0.8,
+        "email": 1.1818,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.2964,
+        "roas_by_channel": {
+          "paid_social": 0.0644,
+          "search": 0.0667,
+          "email": null,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.3868,
+          "search": 0.75,
+          "email": 0.0,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-19",
+      "mer": 0.9031,
+      "roas_by_channel": {
+        "paid_social": 0.398,
+        "search": 0.7949,
+        "email": 0.9998,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.0492,
+        "roas_by_channel": {
+          "paid_social": -0.0333,
+          "search": -0.0064,
+          "email": -0.154,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.4117,
+          "search": 0.8,
+          "email": 1.1818,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-01-26",
+      "mer": 0.9002,
+      "roas_by_channel": {
+        "paid_social": 0.3935,
+        "search": 0.7857,
+        "email": 1.0294,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.0032,
+        "roas_by_channel": {
+          "paid_social": -0.0113,
+          "search": -0.0116,
+          "email": 0.0296,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.398,
+          "search": 0.7949,
+          "email": 0.9998,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-02-02",
+      "mer": 0.8652,
+      "roas_by_channel": {
+        "paid_social": 0.3756,
+        "search": 0.766,
+        "email": 1.1379,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.0389,
+        "roas_by_channel": {
+          "paid_social": -0.0455,
+          "search": -0.0251,
+          "email": 0.1054,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.3935,
+          "search": 0.7857,
+          "email": 1.0294,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-02-09",
+      "mer": 0.8595,
+      "roas_by_channel": {
+        "paid_social": 0.3751,
+        "search": 0.7549,
+        "email": 1.1875,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.0066,
+        "roas_by_channel": {
+          "paid_social": -0.0013,
+          "search": -0.0145,
+          "email": 0.0436,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.3756,
+          "search": 0.766,
+          "email": 1.1379,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    },
+    {
+      "week_start": "2026-02-16",
+      "mer": 0.8093,
+      "roas_by_channel": {
+        "paid_social": 0.2947,
+        "search": 0.7073,
+        "email": 1.1692,
+        "organic": null,
+        "direct": null,
+        "unknown": null
+      },
+      "wow": {
+        "mer": -0.0584,
+        "roas_by_channel": {
+          "paid_social": -0.2143,
+          "search": -0.0631,
+          "email": -0.0154,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        },
+        "previous_roas_by_channel": {
+          "paid_social": 0.3751,
+          "search": 0.7549,
+          "email": 1.1875,
+          "organic": null,
+          "direct": null,
+          "unknown": null
+        }
+      }
+    }
+  ],
+  "latest_week_snapshot": {
+    "week_start": "2026-02-16",
+    "revenue": 1299.0,
+    "orders": 7,
+    "aov": 185.57,
+    "returning_revenue_share": 0.5373,
+    "spend": 1605.0,
+    "ctr": 0.031,
+    "cvr": 0.0469,
+    "cpc": 0.3034,
+    "cac_proxy": 6.4718,
+    "mer": 0.8093,
+    "top_channels_by_revenue": [
+      {
+        "channel": "direct",
+        "revenue": 460.0,
+        "roas": null
+      },
+      {
+        "channel": "paid_social",
+        "revenue": 333.0,
+        "roas": 0.2947
+      },
+      {
+        "channel": "search",
+        "revenue": 290.0,
+        "roas": 0.7073
+      }
+    ]
+  },
+  "anomalies": [
+    {
+      "rule_id": "revenue_wow_10pct",
+      "week_start": "2026-01-05",
+      "scope": "overall",
+      "entity": "revenue",
+      "current": 1728.05,
+      "previous": 2171.14,
+      "delta": -0.2041,
+      "why": "Revenue changed -20.4% WoW (1728.05 vs 2171.14)"
+    },
+    {
+      "rule_id": "returning_share_pp_8pt",
+      "week_start": "2026-01-05",
+      "scope": "overall",
+      "entity": "returning_revenue_share",
+      "current": 0.236,
+      "previous": 0.7531,
+      "delta": -0.5171,
+      "why": "Returning revenue share moved -51.7% points (23.6% vs 75.3%)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-05",
+      "scope": "channel",
+      "entity": "paid_social",
+      "current": 352.0,
+      "previous": 285.89,
+      "delta": 0.2312,
+      "why": "paid_social revenue changed 23.1% WoW (352.00 vs 285.89)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-05",
+      "scope": "channel",
+      "entity": "email",
+      "current": 0.0,
+      "previous": 45.0,
+      "delta": -1.0,
+      "why": "email revenue changed -100.0% WoW (0.00 vs 45.00)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-05",
+      "scope": "channel",
+      "entity": "organic",
+      "current": 155.75,
+      "previous": 130.25,
+      "delta": 0.1958,
+      "why": "organic revenue changed 19.6% WoW (155.75 vs 130.25)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-05",
+      "scope": "channel",
+      "entity": "direct",
+      "current": 980.3,
+      "previous": 1500.0,
+      "delta": -0.3465,
+      "why": "direct revenue changed -34.6% WoW (980.30 vs 1500.00)"
+    },
+    {
+      "rule_id": "revenue_wow_10pct",
+      "week_start": "2026-01-12",
+      "scope": "overall",
+      "entity": "revenue",
+      "current": 1339.2,
+      "previous": 1728.05,
+      "delta": -0.225,
+      "why": "Revenue changed -22.5% WoW (1339.20 vs 1728.05)"
+    },
+    {
+      "rule_id": "returning_share_pp_8pt",
+      "week_start": "2026-01-12",
+      "scope": "overall",
+      "entity": "returning_revenue_share",
+      "current": 0.4559,
+      "previous": 0.236,
+      "delta": 0.2199,
+      "why": "Returning revenue share moved +22.0% points (45.6% vs 23.6%)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-12",
+      "scope": "channel",
+      "entity": "paid_social",
+      "current": 413.75,
+      "previous": 352.0,
+      "delta": 0.1754,
+      "why": "paid_social revenue changed 17.5% WoW (413.75 vs 352.00)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-12",
+      "scope": "channel",
+      "entity": "search",
+      "current": 280.0,
+      "previous": 240.0,
+      "delta": 0.1667,
+      "why": "search revenue changed 16.7% WoW (280.00 vs 240.00)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-12",
+      "scope": "channel",
+      "entity": "direct",
+      "current": 410.0,
+      "previous": 980.3,
+      "delta": -0.5818,
+      "why": "direct revenue changed -58.2% WoW (410.00 vs 980.30)"
+    },
+    {
+      "rule_id": "returning_share_pp_8pt",
+      "week_start": "2026-01-19",
+      "scope": "overall",
+      "entity": "returning_revenue_share",
+      "current": 0.7628,
+      "previous": 0.4559,
+      "delta": 0.3069,
+      "why": "Returning revenue share moved +30.7% points (76.3% vs 45.6%)"
+    },
+    {
+      "rule_id": "returning_share_pp_8pt",
+      "week_start": "2026-01-26",
+      "scope": "overall",
+      "entity": "returning_revenue_share",
+      "current": 0.4705,
+      "previous": 0.7628,
+      "delta": -0.2923,
+      "why": "Returning revenue share moved -29.2% points (47.0% vs 76.3%)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-01-26",
+      "scope": "channel",
+      "entity": "email",
+      "current": 70.0,
+      "previous": 59.99,
+      "delta": 0.1669,
+      "why": "email revenue changed 16.7% WoW (70.00 vs 59.99)"
+    },
+    {
+      "rule_id": "returning_share_pp_8pt",
+      "week_start": "2026-02-02",
+      "scope": "overall",
+      "entity": "returning_revenue_share",
+      "current": 0.758,
+      "previous": 0.4705,
+      "delta": 0.2875,
+      "why": "Returning revenue share moved +28.7% points (75.8% vs 47.0%)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-02",
+      "scope": "channel",
+      "entity": "email",
+      "current": 82.5,
+      "previous": 70.0,
+      "delta": 0.1786,
+      "why": "email revenue changed 17.9% WoW (82.50 vs 70.00)"
+    },
+    {
+      "rule_id": "returning_share_pp_8pt",
+      "week_start": "2026-02-09",
+      "scope": "overall",
+      "entity": "returning_revenue_share",
+      "current": 0.4743,
+      "previous": 0.758,
+      "delta": -0.2837,
+      "why": "Returning revenue share moved -28.4% points (47.4% vs 75.8%)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-09",
+      "scope": "channel",
+      "entity": "email",
+      "current": 95.0,
+      "previous": 82.5,
+      "delta": 0.1515,
+      "why": "email revenue changed 15.2% WoW (95.00 vs 82.50)"
+    },
+    {
+      "rule_id": "revenue_wow_10pct",
+      "week_start": "2026-02-16",
+      "scope": "overall",
+      "entity": "revenue",
+      "current": 1299.0,
+      "previous": 1813.5,
+      "delta": -0.2837,
+      "why": "Revenue changed -28.4% WoW (1299.00 vs 1813.50)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-16",
+      "scope": "channel",
+      "entity": "paid_social",
+      "current": 333.0,
+      "previous": 570.2,
+      "delta": -0.416,
+      "why": "paid_social revenue changed -41.6% WoW (333.00 vs 570.20)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-16",
+      "scope": "channel",
+      "entity": "search",
+      "current": 290.0,
+      "previous": 385.0,
+      "delta": -0.2468,
+      "why": "search revenue changed -24.7% WoW (290.00 vs 385.00)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-16",
+      "scope": "channel",
+      "entity": "email",
+      "current": 76.0,
+      "previous": 95.0,
+      "delta": -0.2,
+      "why": "email revenue changed -20.0% WoW (76.00 vs 95.00)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-16",
+      "scope": "channel",
+      "entity": "organic",
+      "current": 140.0,
+      "previous": 188.3,
+      "delta": -0.2565,
+      "why": "organic revenue changed -25.7% WoW (140.00 vs 188.30)"
+    },
+    {
+      "rule_id": "channel_revenue_wow_15pct",
+      "week_start": "2026-02-16",
+      "scope": "channel",
+      "entity": "direct",
+      "current": 460.0,
+      "previous": 575.0,
+      "delta": -0.2,
+      "why": "direct revenue changed -20.0% WoW (460.00 vs 575.00)"
+    },
+    {
+      "rule_id": "spend_wow_15pct",
+      "week_start": "2026-02-16",
+      "scope": "overall",
+      "entity": "spend",
+      "current": 1605.0,
+      "previous": 2110.0,
+      "delta": -0.2393,
+      "why": "Spend changed -23.9% WoW (1605.00 vs 2110.00)"
+    },
+    {
+      "rule_id": "roas_drop_20pct",
+      "week_start": "2026-01-05",
+      "scope": "channel",
+      "entity": "email",
+      "current": 0.0,
+      "previous": 1.0,
+      "delta": -1.0,
+      "why": "email ROAS dropped 100.0% WoW (0.00 vs 1.00)"
+    },
+    {
+      "rule_id": "roas_drop_20pct",
+      "week_start": "2026-02-16",
+      "scope": "channel",
+      "entity": "paid_social",
+      "current": 0.2947,
+      "previous": 0.3751,
+      "delta": -0.2143,
+      "why": "paid_social ROAS dropped 21.4% WoW (0.29 vs 0.38)"
+    }
+  ]
+}

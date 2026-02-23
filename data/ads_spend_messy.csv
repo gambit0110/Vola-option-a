@@ -1,0 +1,42 @@
+date,channel,campaign,spend,impressions,clicks,conversions
+2025-12-29,facebook,Holiday Prospecting,"$420.00","45,000","1,350",42
+12/31/2025,instagram,Holiday Retargeting,"€210,00","28,500",980,36
+Jan 2 2026,google_search,Brand Search,"$300.00","18,000",900,88
+2026/01/03,email,New Year Blast,"45.00","12,500",650,95
+2026-01-04,tiktok,UGC Push,"$180.00","30,000",700,18
+2026-01-05,facebook,Prospecting A,"$460.00","48,000","1,420",40
+01/07/2026,instagram,Retargeting A,"$240.00","31,200",1020,35
+Jan 08 2026,google_search,Search Core,"$320.00","19,500",930,92
+2026/01/09,email,Newsletter Jan W2,"50","13,000",700,100
+2026-01-11,tiktok,Creator Test,"$210.00","34,000",760,16
+2026-01-12,facebook,Prospecting B,"$510.00","52,000","1,480",39
+01/14/2026,instagram,Retargeting B,"$265.00","33,500",1100,34
+Jan 15 2026,google_search,Search Core,"$350.00","20,500",980,90
+2026/01/16,email,Newsletter Jan W3,"55.00","13,500",720,102
+2026-01-18,tiktok,Creator Test,"$230.00","36,500",790,15
+2026-01-19,facebook,Prospecting C,"$590.00","58,000","1,610",37
+01/21/2026,instagram,Retargeting C,"$300.00","35,000",1180,30
+Jan 22 2026,google_search,Search Core,"$390.00","21,200",1020,85
+2026/01/23,email,Newsletter Jan W4,"60,00","14,000",730,98
+2026-01-25,tiktok,Creator Test,"$260.00","39,500",820,12
+2026-01-26,facebook,Prospecting D,"$640.00","61,500","1,690",34
+01/28/2026,instagram,Retargeting D,"$335.00","36,800",1220,28
+Jan 29 2026,google_search,Search Core,"$420.00","22,000",1050,82
+2026/01/30,email,Newsletter Jan W5,"68.00","14,500",750,96
+2026-02-01,tiktok,Creator Test,"$300.00","42,000",850,11
+2026-02-02,facebook,Prospecting E,"$720.00","65,000","1,760",30
+02/04/2026,instagram,Retargeting E,"$370.00","38,500",1250,25
+Feb 05 2026,google_search,Search Core,"$470.00","23,500",1090,78
+2026/02/06,email,Newsletter Feb W1,"72,50","15,000",770,94
+2026-02-08,tiktok,Creator Test,"$330.00","44,000",870,10
+2026-02-09,facebook,Prospecting F,"$780.00","68,000","1,820",27
+02/11/2026,instagram,Retargeting F,"$390.00","40,000",1290,22
+Feb 12 2026,google_search,Search Core,"$510.00","24,000",1120,75
+2026/02/13,email,Newsletter Feb W2,"80.00","15,500",790,92
+2026-02-15,tiktok,Creator Test,"$350.00","45,500",890,0
+2026-02-16,facebook,Prospecting G,"$600.00","60,000","1,600",36
+02/18/2026,instagram,Retargeting G,"$280.00","34,500",1110,29
+Feb 19 2026,google_search,Search Core,"$410.00","21,000",980,81
+2026/02/20,email,Newsletter Feb W3,"65.00","14,800",760,88
+2026-02-22,tiktok,Creator Recovery,"$250.00","40,500",840,14
+bad-date,facebook,Broken Row,"$123.00","1,000",10,1

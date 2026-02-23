@@ -1,0 +1,60 @@
+order_id,order_date,channel,revenue,customer_type,country
+1001,2025-12-29,fb,"$120.50",new,US
+1002,12/30/2025,Facebook,"$89.99",returning,US
+1003,Dec 31 2025,IG,"€75,40",,RO
+1004,2026/01/01,google ads,"$210.00",new,US
+1005,2026-01-02,newsletter,"45.00",returning,US
+1006,01/03/2026,Organic,"$130.25",new,CA
+1007,Jan 4 2026,direct,"1.500,00",returning,DE
+1008,2026-01-05,Face Book,"$99.90",new,US
+1009,01/06/2026,IG,"€110,00",returning,FR
+1010,Jan 07 2026,google_search,"$240.00",new,US
+1011,2026/01/08,newsletter,"",,US
+1012,2026-01-09,Organic,"$155.75",returning,US
+1013,01/10/2026,direct,"€980,30",new,ES
+1014,Jan 11 2026,facebook,"$142.10",returning,US
+1015,2026-01-12,fb,"$160.00",new,US
+1016,01/13/2026,Instagram,"$135.50",returning,US
+1017,Jan 14 2026,google ads,"$280.00",new,US
+1018,2026/01/15,newsletter,"50",returning,US
+1019,2026-01-16,Organic,"$170.45",,US
+1020,01/17/2026,direct,"$410.00",returning,US
+1021,Jan 18 2026,Face Book,"$118.25",new,US
+1022,2026-01-19,fb,"$175.00",returning,US
+1023,01/20/2026,IG,"$149.90",new,US
+1024,Jan 21 2026,google ads,"$310.00",returning,US
+1025,2026/01/22,newsletter,"59,99",new,US
+1026,2026-01-23,Organic,"$162.20",returning,US
+1027,01/24/2026,direct,"$455.00",returning,US
+1028,Jan 25 2026,tiktok,"$132.80",new,US
+1029,2026-01-26,Facebook,"$190.00",new,US
+1030,01/27/2026,instagram,"$166.70",returning,US
+1031,Jan 28 2026,google_search,"$330.00",new,US
+1032,2026/01/29,newsletter,"$70.00",returning,US
+1033,2026-01-30,Organic,"$175.35",new,US
+1034,01/31/2026,direct,"$510.00",returning,US
+1035,Feb 1 2026,Face Book,"$145.00",,US
+1036,2026-02-02,fb,"$205.00",returning,US
+1037,02/03/2026,IG,"$178.40",new,US
+1038,Feb 04 2026,google ads,"$360.00",returning,US
+1039,2026/02/05,newsletter,"82.50",new,US
+1040,2026-02-06,Organic,"$182.10",returning,US
+1041,02/07/2026,direct,"$540.00",returning,US
+1042,Feb 8 2026,facebook,"$150.00",new,US
+1043,2026-02-09,fb,"$220.00",new,US
+1044,02/10/2026,Instagram,"$190.20",returning,US
+1045,Feb 11 2026,google_search,"$385.00",new,US
+1046,2026/02/12,newsletter,"$95.00",returning,US
+1047,2026-02-13,Organic,"$188.30",new,US
+1048,02/14/2026,direct,"$575.00",returning,US
+1049,Feb 15 2026,tiktok,"$160.00",new,US
+1050,2026-02-16,fb,"$130.00",new,US
+1051,02/17/2026,Face Book,"$98.00",returning,US
+1052,Feb 18 2026,google ads,"$290.00",new,US
+1053,2026/02/19,newsletter,"$76.00",,US
+1054,2026-02-20,Organic,"$140.00",returning,US
+1055,02/21/2026,direct,"$460.00",returning,US
+1056,Feb 22 2026,instagram,"$105.00",new,US
+1018,2026-01-15,newsletter,"65.00",returning,US
+9999,not-a-date,fb,"$100.00",new,US
+9998,,google ads,"$200.00",returning,US
